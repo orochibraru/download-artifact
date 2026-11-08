@@ -42,7 +42,7 @@
 		"@types/jest": "^30.0.0",
 		"@types/node": "^25.9.4",
 		"@vercel/ncc": "^0.45.0",
-		"concurrently": "^9.2.3",
+		"concurrently": "^10.0.0",
 		"husky": "^9.1.7",
 		"jest": "^30.4.2",
 		"ts-jest": "^29.4.11",
